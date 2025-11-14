@@ -12,5 +12,5 @@ Using C++, Python, and more
 <li>Nominative Determinism (and renaming myself ("wizard"))</li>
 <li>Microwaves for kernels, Kernel Mustard, and kernels of truth</li>
 <li>Code Pessimization</li>
-<li>Cordoroy, the material and the bear</li>
+<li>Corduroy, the material and the bear</li>
 </ul>
