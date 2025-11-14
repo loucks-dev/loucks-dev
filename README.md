@@ -9,6 +9,6 @@ Interested In:
 * Linux
 * Vim
 * Photography
-* Microwaves for Kernels
+* Microwaves for Kernels, Kernel Mustard, and Kernels of truth
 * Code Pessimization
 * Cordoroy, the material and the bear
