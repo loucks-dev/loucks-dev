@@ -1,7 +1,6 @@
 <h2 align="center">About Me</h2>
-Computer Science student  
+Computer Science student <br>
 Using C++, Python, and more  
-
 <h2 align="center">Interested In:</h2> 
 <ul>
 <li>C++</li>
